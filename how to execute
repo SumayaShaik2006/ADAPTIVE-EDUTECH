@@ -1,0 +1,12 @@
+step-by-step Guide to using the streamlit App
+first, make sure:
+yiu have run:
+uvicorn main:app --reload (in backend/)
+
+
+1. Dashboardstreamlit run app.py 
+
+Purpose: View learner profile information
+Input:
+User ID (text input box)
+Example: learner123
